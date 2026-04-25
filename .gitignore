@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+result.json
+captured_request.json
+response.json
+extracted_media/
+.idea/
+.vscode/
